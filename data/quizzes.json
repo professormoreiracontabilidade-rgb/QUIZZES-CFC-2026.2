@@ -1,0 +1,156 @@
+{
+  "disciplinas": [
+    {
+      "id": "contabilidade-geral",
+      "nome": "Contabilidade Geral",
+      "icone": "📘",
+      "descricao": "Quizzes de Contabilidade Geral e CPCs.",
+      "quizzes": [
+        {
+          "titulo": "100 Questões de Contabilidade Geral",
+          "descricao": "Treinamento completo com 100 questões de Contabilidade Geral.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/quizzes-Contabilidade-Geral/"
+        },
+        {
+          "titulo": "CPC 01 – Impairment",
+          "descricao": "Questões sobre teste de recuperabilidade de ativos.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/TREINAMENTO-PESADO-IMPAIRMENT/"
+        },
+        {
+          "titulo": "CPC 25",
+          "descricao": "Questões sobre provisões, passivos contingentes e ativos contingentes.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/cpc-25---quizzes/"
+        },
+        {
+          "titulo": "CPC 27 – Parte 1",
+          "descricao": "Questões sobre ativo imobilizado.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/quizz-imobilizado-1/"
+        },
+        {
+          "titulo": "CPC 27 – Parte 2",
+          "descricao": "Continuação das questões sobre ativo imobilizado.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/quizz-imobilizado-2/"
+        },
+        {
+          "titulo": "CPC 28 – FGV",
+          "descricao": "Simulado FGV sobre propriedade para investimento.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/QUIZZ-SIMULADO-CPC-28/"
+        },
+        {
+          "titulo": "CPC 28 – Parte 1",
+          "descricao": "Questões sobre propriedade para investimento.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/Quizz-PPI-1/"
+        },
+        {
+          "titulo": "CPC 28 – Parte 2",
+          "descricao": "Continuação das questões sobre propriedade para investimento.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/Quizz-PPI-2/"
+        },
+        {
+          "titulo": "CPC 31 – Parte 1",
+          "descricao": "Questões sobre ativo não circulante mantido para venda.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/QUIZZ-CPC-31---1-/"
+        },
+        {
+          "titulo": "CPC 31 – Parte 2",
+          "descricao": "Continuação das questões sobre CPC 31.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/QUIZZ-CPC-31---2/"
+        },
+        {
+          "titulo": "CPC 31 – Parte 3",
+          "descricao": "Terceira parte das questões sobre CPC 31.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/QUIZZ---CPC-31---3/"
+        },
+        {
+          "titulo": "CPC 31 – Revisão",
+          "descricao": "Revisão completa do CPC 31.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/quizz-cpc-31---revisao-2/"
+        }
+      ]
+    },
+    {
+      "id": "contabilidade-custos",
+      "nome": "Contabilidade de Custos",
+      "icone": "🧮",
+      "descricao": "Quizzes de custos, métodos e formação de resultados.",
+      "quizzes": []
+    },
+    {
+      "id": "contabilidade-publica",
+      "nome": "Contabilidade Pública",
+      "icone": "🏛️",
+      "descricao": "Quizzes de orçamento, PCASP e demonstrações públicas.",
+      "quizzes": []
+    },
+    {
+      "id": "auditoria",
+      "nome": "Auditoria",
+      "icone": "🔎",
+      "descricao": "Quizzes de auditoria contábil e normas aplicáveis.",
+      "quizzes": []
+    },
+    {
+      "id": "pericia-contabil",
+      "nome": "Perícia Contábil",
+      "icone": "⚖️",
+      "descricao": "Quizzes de perícia contábil e normas profissionais.",
+      "quizzes": []
+    },
+    {
+      "id": "etica-profissional",
+      "nome": "Ética Profissional",
+      "icone": "🤝",
+      "descricao": "Quizzes sobre ética e legislação profissional.",
+      "quizzes": []
+    },
+    {
+      "id": "controladoria",
+      "nome": "Controladoria",
+      "icone": "📊",
+      "descricao": "Quizzes de controladoria e gestão empresarial.",
+      "quizzes": []
+    },
+    {
+      "id": "direito-tributario",
+      "nome": "Direito Tributário",
+      "icone": "🧾",
+      "descricao": "Quizzes de Direito Tributário.",
+      "quizzes": []
+    },
+    {
+      "id": "direito-administrativo",
+      "nome": "Direito Administrativo",
+      "icone": "🏢",
+      "descricao": "Quizzes de Direito Administrativo.",
+      "quizzes": []
+    },
+    {
+      "id": "direito-constitucional",
+      "nome": "Direito Constitucional",
+      "icone": "📜",
+      "descricao": "Quizzes de Direito Constitucional.",
+      "quizzes": []
+    },
+    {
+      "id": "direito-civil",
+      "nome": "Direito Civil",
+      "icone": "👥",
+      "descricao": "Quizzes de Direito Civil.",
+      "quizzes": []
+    },
+    {
+      "id": "direito-empresarial",
+      "nome": "Direito Empresarial",
+      "icone": "💼",
+      "descricao": "Quizzes de Direito Empresarial.",
+      "quizzes": []
+    },
+    {
+      "id": "direito-trabalho",
+      "nome": "Direito do Trabalho",
+      "icone": "👷",
+      "descricao": "Quizzes de Direito do Trabalho.",
+      "quizzes": []
+    }
+  ]
+}
