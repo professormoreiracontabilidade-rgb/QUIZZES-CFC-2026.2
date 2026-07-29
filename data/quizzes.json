@@ -87,7 +87,13 @@
       "nome": "Auditoria",
       "icone": "🔎",
       "descricao": "Quizzes de auditoria contábil e normas aplicáveis.",
-      "quizzes": []
+      "quizzes": [
+        {
+          "titulo": "Quizzes de Auditoria",
+          "descricao": "Questões comentadas de Auditoria para o Exame de Suficiência.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/QUIZZES-AUDITORIA/"
+        }
+      ]
     },
     {
       "id": "pericia-contabil",
