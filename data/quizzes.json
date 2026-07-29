@@ -73,7 +73,28 @@
       "nome": "Contabilidade de Custos",
       "icone": "🧮",
       "descricao": "Quizzes de custos, métodos e formação de resultados.",
-      "quizzes": []
+      "quizzes": [
+        {
+          "titulo": "Terminologia Contábil",
+          "descricao": "Questões sobre a terminologia aplicada à Contabilidade de Custos.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/Quizzes_Contabilidade_de_Custos_Professor_Moreira/"
+        },
+        {
+          "titulo": "Custeio por absorção – parte 1",
+          "descricao": "Questões sobre o método de custeio por absorção.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/quizz---custeio-por-absor-o1/"
+        },
+        {
+          "titulo": "Ponto de Equilíbrio – parte 1",
+          "descricao": "Questões sobre conceitos e cálculos do ponto de equilíbrio.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/Ponto_de_Equilibrio/"
+        },
+        {
+          "titulo": "Ponto de Equilíbrio – parte 2",
+          "descricao": "Continuação das questões sobre ponto de equilíbrio.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/Ponto-de-Equibrio_1/"
+        }
+      ]
     },
     {
       "id": "contabilidade-publica",
