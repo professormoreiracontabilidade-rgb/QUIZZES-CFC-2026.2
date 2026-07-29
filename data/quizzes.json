@@ -100,7 +100,18 @@
       "nome": "Perícia Contábil",
       "icone": "⚖️",
       "descricao": "Quizzes de perícia contábil e normas profissionais.",
-      "quizzes": []
+      "quizzes": [
+        {
+          "titulo": "NBC-TP 01 – PERÍCIA",
+          "descricao": "Questões comentadas sobre a NBC TP 01 – Perícia Contábil.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/quizzes-nbc-tp-01/"
+        },
+        {
+          "titulo": "NBC-PP 01 – PERÍCIA",
+          "descricao": "Questões comentadas sobre a NBC PP 01 – Perito Contábil.",
+          "url": "https://professormoreiracontabilidade-rgb.github.io/quizz-pericia-nbc-pp-01/"
+        }
+      ]
     },
     {
       "id": "etica-profissional",
