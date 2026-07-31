@@ -101,7 +101,13 @@
       "nome": "Contabilidade Pública",
       "icone": "🏛️",
       "descricao": "Quizzes de orçamento, PCASP e demonstrações públicas.",
-      "quizzes": []
+      "quizzes": [
+        {
+          "titulo": "Despesas Públicas — 120 Questões",
+          "descricao": "120 questões comentadas sobre classificação, natureza e execução da despesa pública.",
+          "url": "../index_quizzes_despesas_publicas_120_questoes.html"
+        }
+      ]
     },
     {
       "id": "auditoria",
